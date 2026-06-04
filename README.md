@@ -13,6 +13,5 @@ Hey, I'm Christian 👋🏾<br><br>🎓 CS + AI/ML @ Duke University<br><br>💻
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=christiandkirby&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=christiandkirby&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
